@@ -92,7 +92,7 @@ namespace DefectItemsListCreator
                     worksheet.Cells["A" + currentRowNum].Value = i+1;
                     worksheet.Cells["A" + currentRowNum].Style.HorizontalAlignment = ExcelHorizontalAlignment.Center;
                     worksheet.Cells["A" + currentRowNum].Style.VerticalAlignment = ExcelVerticalAlignment.Center;
-                    string[] imagePaths = System.IO.Directory.GetFiles(@directories[i], "*.jfif");
+                    string[] imagePaths = System.IO.Directory.GetFiles(@directories[i], "*.jpg");
                     string[] textPath = System.IO.Directory.GetFiles(directories[i], "*.txt");
                     int currentCol = 2;
                     for(int j = 0; j < imagePaths.Length; j++)

@@ -10,3 +10,8 @@ C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\De
 C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.csproj.CopyComplete
 C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.exe
 C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.pdb
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\bin\Debug\DefectItemsListCreator.exe.manifest
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\bin\Debug\DefectItemsListCreator.application
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.csprojAssemblyReference.cache
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.exe.manifest
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.application
