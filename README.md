@@ -1,7 +1,12 @@
 # Defect Item List Generator
 
 Purpose: To generate a formated excel file without hassle.
-
+<br>
+<br>
+Format Sample:
+![alt text](https://user-images.githubusercontent.com/15872787/61143018-b44de700-a503-11e9-8b51-c9cf5484765b.png)
+<br>
+<br>
 Usage:
 1. Create a parent directory as the source folder.
 2. Create sub directory inside the created source folder. (Each sub directory is equivalent to an item or a row)
