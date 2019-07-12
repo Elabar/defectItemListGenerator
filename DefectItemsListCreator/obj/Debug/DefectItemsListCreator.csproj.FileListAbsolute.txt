@@ -1,0 +1,12 @@
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\bin\Debug\DefectItemsListCreator.exe.config
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\bin\Debug\DefectItemsListCreator.exe
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\bin\Debug\DefectItemsListCreator.pdb
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\bin\Debug\EPPlus.dll
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\bin\Debug\EPPlus.xml
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.Form1.resources
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.Properties.Resources.resources
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.csproj.GenerateResource.cache
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.csproj.CoreCompileInputs.cache
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.csproj.CopyComplete
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.exe
+C:\Users\fulia\source\repos\DefectItemsListCreator\DefectItemsListCreator\obj\Debug\DefectItemsListCreator.pdb
