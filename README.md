@@ -4,7 +4,13 @@ Purpose: To generate a formated excel file without hassle.
 <br>
 <br>
 Format Sample:
+<br>
 ![alt text](https://user-images.githubusercontent.com/15872787/61143018-b44de700-a503-11e9-8b51-c9cf5484765b.png)
+<br>
+<br>
+Program layout:
+<br>
+![alt text](https://user-images.githubusercontent.com/15872787/61150068-18c57200-a515-11e9-8098-84e1a5789bd5.png)
 <br>
 <br>
 Usage:
